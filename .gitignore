@@ -1,0 +1,6 @@
+*.zip
+*.tar
+target/
+logs/
+keys/
+test_keys/
